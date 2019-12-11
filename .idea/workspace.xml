@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="梳理动态规划相关题目">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sample/Leecode/ClimbStairs.java" afterPath="$PROJECT_DIR$/src/sample/Leecode/DynamicProgramming/ClimbStairs.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sample/Leecode/KMinCost.java" afterPath="$PROJECT_DIR$/src/sample/Leecode/DynamicProgramming/KMinCost.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sample/Leecode/KMinCost_2.java" afterPath="$PROJECT_DIR$/src/sample/Leecode/DynamicProgramming/KMinCost_2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sample/Leecode/LengthOfLIS.java" afterPath="$PROJECT_DIR$/src/sample/Leecode/DynamicProgramming/LengthOfLIS.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sample/Leecode/LongestCommonSubsequence.java" afterPath="$PROJECT_DIR$/src/sample/Leecode/DynamicProgramming/LongestCommonSubsequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sample/Leecode/MinCost.java" afterPath="$PROJECT_DIR$/src/sample/Leecode/DynamicProgramming/MinCost.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sample/Leecode/MinPathSum.java" afterPath="$PROJECT_DIR$/src/sample/Leecode/DynamicProgramming/MinPathSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sample/Leecode/MinimumTotal.java" afterPath="$PROJECT_DIR$/src/sample/Leecode/DynamicProgramming/MinimumTotal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sample/Leecode/Rob.java" afterPath="$PROJECT_DIR$/src/sample/Leecode/DynamicProgramming/Rob.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sample/Leecode/Rob_2.java" afterPath="$PROJECT_DIR$/src/sample/Leecode/DynamicProgramming/Rob_2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sample/Leecode/UniquePaths.java" afterPath="$PROJECT_DIR$/src/sample/Leecode/DynamicProgramming/UniquePaths.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sample/Leecode/UniquePathsWithObstacles.java" afterPath="$PROJECT_DIR$/src/sample/Leecode/DynamicProgramming/UniquePathsWithObstacles.java" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -534,12 +520,20 @@
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1576044785077" duration="106000" />
       <workItem from="1576044973410" duration="538000" />
-      <workItem from="1576049267496" duration="406000" />
+      <workItem from="1576049267496" duration="576000" />
     </task>
+    <task id="LOCAL-00001" summary="梳理动态规划相关题目">
+      <created>1576049676080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576049676080</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2352000" />
+    <option name="totallyTimeSpent" value="2522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="753" extended-state="6" />
