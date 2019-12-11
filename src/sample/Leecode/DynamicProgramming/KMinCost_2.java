@@ -1,4 +1,4 @@
-package sample.Leecode;
+package sample.Leecode.DynamicProgramming;
 
 /**
  * @Author: liutianxin
